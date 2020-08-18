@@ -1,0 +1,20 @@
+.navbar-nav {
+  background: gray !important;
+}
+
+.navbar-nav .nav-item {
+  border: 1px solid #000;
+}
+
+.nav-item:hover {
+  background: #000 !important;
+  color: #fff;
+}
+
+.bg-content-custom {
+  background: #343a40;
+  color: #fff;
+}
+h3 {
+  background: firebrick;
+}
